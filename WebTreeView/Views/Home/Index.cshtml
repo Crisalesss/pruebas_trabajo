@@ -1,0 +1,47 @@
+﻿@model List<Item>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div>
+
+    <div class="text-center">
+        <h1 class="display-4">Welcome</h1>
+        <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    </div>
+
+    <br />
+
+    <div>
+        
+            <ul>
+                @foreach(Item items in Model)
+                {
+                    DisplayItems(items);
+                }
+            </ul>
+     
+    </div>
+
+</div>
+
+@functions {
+    void DisplayItems(Item item)
+    {
+
+        <li>
+            <span>@item.Name</span>
+            <ul>
+                @foreach (Item itemChild in item.Children)
+                {
+                    DisplayItems(itemChild);
+                }
+
+            </ul>
+        </li>
+
+    }
+}
+
+
