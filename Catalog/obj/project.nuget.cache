@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xo4k36MKh4iNlgqe6Fn0gwRlMI1WHTHE+sW8dGCabY8O68lXZd2ElNtR5YWqVM3kFd3pMxJ9lJQySgBcax8Aeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\crisa\\Desktop\\PruebasCandidatos\\Catalog\\Catalog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\crisa\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\crisa\\.nuget\\packages\\speckle.newtonsoft.json\\13.0.2\\speckle.newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
