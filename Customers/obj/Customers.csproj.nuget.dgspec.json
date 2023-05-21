@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\crisa\\Desktop\\PruebasCandidatos\\Customers\\Customers.csproj": {}
+    "C:\\Users\\crisa\\Desktop\\PruebasCandidatos\\soluciones\\Customers\\Customers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\crisa\\Desktop\\PruebasCandidatos\\Customers\\Customers.csproj": {
+    "C:\\Users\\crisa\\Desktop\\PruebasCandidatos\\soluciones\\Customers\\Customers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\crisa\\Desktop\\PruebasCandidatos\\Customers\\Customers.csproj",
+        "projectUniqueName": "C:\\Users\\crisa\\Desktop\\PruebasCandidatos\\soluciones\\Customers\\Customers.csproj",
         "projectName": "Customers",
-        "projectPath": "C:\\Users\\crisa\\Desktop\\PruebasCandidatos\\Customers\\Customers.csproj",
+        "projectPath": "C:\\Users\\crisa\\Desktop\\PruebasCandidatos\\soluciones\\Customers\\Customers.csproj",
         "packagesPath": "C:\\Users\\crisa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\crisa\\Desktop\\PruebasCandidatos\\Customers\\obj\\",
+        "outputPath": "C:\\Users\\crisa\\Desktop\\PruebasCandidatos\\soluciones\\Customers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

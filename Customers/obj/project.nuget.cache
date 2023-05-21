@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5mOewmfOKIGIcTJ7zbY53uhkRHylk6abImC66mUleFobHOmXh4hsZVgRBfGbQMZc64WxmROWf+fmngutrNnZcw==",
+  "dgSpecHash": "YKtOPqbjjyCBOzt/+WQG5ZslS+j/9SihdvJo1+w3q/L6A50HG5rcEZPchsjnu4GocOkDX02EI040Hn5tBzAkDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\crisa\\Desktop\\PruebasCandidatos\\Customers\\Customers.csproj",
+  "projectFilePath": "C:\\Users\\crisa\\Desktop\\PruebasCandidatos\\soluciones\\Customers\\Customers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\crisa\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\crisa\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

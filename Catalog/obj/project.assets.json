@@ -111,11 +111,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\crisa\\Desktop\\PruebasCandidatos\\Catalog\\Catalog.csproj",
+      "projectUniqueName": "C:\\Users\\crisa\\Desktop\\PruebasCandidatos\\soluciones\\Catalog\\Catalog.csproj",
       "projectName": "Catalog",
-      "projectPath": "C:\\Users\\crisa\\Desktop\\PruebasCandidatos\\Catalog\\Catalog.csproj",
+      "projectPath": "C:\\Users\\crisa\\Desktop\\PruebasCandidatos\\soluciones\\Catalog\\Catalog.csproj",
       "packagesPath": "C:\\Users\\crisa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\crisa\\Desktop\\PruebasCandidatos\\Catalog\\obj\\",
+      "outputPath": "C:\\Users\\crisa\\Desktop\\PruebasCandidatos\\soluciones\\Catalog\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

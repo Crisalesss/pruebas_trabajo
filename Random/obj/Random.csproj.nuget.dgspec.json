@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\crisa\\Desktop\\PruebasCandidatos\\Random\\Random.csproj": {}
+    "C:\\Users\\crisa\\Desktop\\PruebasCandidatos\\soluciones\\Random\\Random.csproj": {}
   },
   "projects": {
-    "C:\\Users\\crisa\\Desktop\\PruebasCandidatos\\Random\\Random.csproj": {
+    "C:\\Users\\crisa\\Desktop\\PruebasCandidatos\\soluciones\\Random\\Random.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\crisa\\Desktop\\PruebasCandidatos\\Random\\Random.csproj",
+        "projectUniqueName": "C:\\Users\\crisa\\Desktop\\PruebasCandidatos\\soluciones\\Random\\Random.csproj",
         "projectName": "Random",
-        "projectPath": "C:\\Users\\crisa\\Desktop\\PruebasCandidatos\\Random\\Random.csproj",
+        "projectPath": "C:\\Users\\crisa\\Desktop\\PruebasCandidatos\\soluciones\\Random\\Random.csproj",
         "packagesPath": "C:\\Users\\crisa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\crisa\\Desktop\\PruebasCandidatos\\Random\\obj\\",
+        "outputPath": "C:\\Users\\crisa\\Desktop\\PruebasCandidatos\\soluciones\\Random\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
